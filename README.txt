@@ -1,4 +1,3 @@
-KO‘RIK NUSXASI: rasmlar hali PNG. AVIF va PageSpeed yakunlanmagan.
 YANGI XONADON ZAPUSKI — 3 TA SAYT
 Manba: foydalanuvchining Untitled (5).zip PDF maketlari.
 /a/ — oq-oltin; /b/ — oq-ko‘k; /c/ — to‘q ko‘k. Asosiy / A sahifasini ochadi.
@@ -11,5 +10,5 @@ Server HTTP2xx va JSON ok:true / success:true / status:success / result:success 
 Ism va telefon faqat shu tab sessionStorage xotirasida tasdiqqacha saqlanadi.
 Taymer uchun registrationDeadline ni vaqt mintaqasi bilan ISO8601 shaklida yozing.
 Muddat sozlanmaganida maketdagi 01:59 statik namuna ko‘rsatiladi; u haqiqiy muddat yoki yuruvchi taymer emas.
-Telegram kanali, Apps Script, Pixel va taymer muddati hali berilmagan.
+Apps Script endpointi foydalanuvchi bergan yangi manzilga ulangan. Telegram kanali, Pixel va taymer muddati hali berilmagan.
 Haqiqiy Google Sheets yozuvi sinovdan o‘tkazilmagan.

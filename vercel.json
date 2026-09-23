@@ -9,6 +9,42 @@
           "value": "nosniff"
         }
       ]
+    },
+    {
+      "source": "/",
+      "headers": [
+        {
+          "key": "Link",
+          "value": "</a/assets/hero-a.avif>; rel=preload; as=image; fetchpriority=high, </a/css/main.css>; rel=preload; as=style, </a/fonts/display.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin"
+        }
+      ]
+    },
+    {
+      "source": "/a/",
+      "headers": [
+        {
+          "key": "Link",
+          "value": "</a/assets/hero-a.avif>; rel=preload; as=image; fetchpriority=high, </a/css/main.css>; rel=preload; as=style, </a/fonts/display.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin"
+        }
+      ]
+    },
+    {
+      "source": "/b/",
+      "headers": [
+        {
+          "key": "Link",
+          "value": "</b/assets/hero-b.avif>; rel=preload; as=image; fetchpriority=high, </b/css/main.css>; rel=preload; as=style, </b/fonts/display.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin"
+        }
+      ]
+    },
+    {
+      "source": "/c/",
+      "headers": [
+        {
+          "key": "Link",
+          "value": "</c/assets/hero-c.avif>; rel=preload; as=image; fetchpriority=high, </c/css/main.css>; rel=preload; as=style, </c/fonts/display.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin"
+        }
+      ]
     }
   ]
 }
