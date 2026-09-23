@@ -15,7 +15,7 @@
       "headers": [
         {
           "key": "Link",
-          "value": "</a/assets/hero-a.avif>; rel=preload; as=image; fetchpriority=high, </a/assets/calendar-a.avif>; rel=preload; as=image, </a/assets/bonus-appliances.avif>; rel=preload; as=image, </a/fonts/roboto-600.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin, </a/fonts/mulish-600.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin, </a/fonts/big-700.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin, </a/fonts/roboto-400.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin, </a/fonts/roboto-700.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin"
+          "value": "</a/assets/hero-a.avif>; rel=preload; as=image; fetchpriority=high, </a/assets/calendar-a.avif>; rel=preload; as=image, </a/assets/bonus-appliances.avif>; rel=preload; as=image, </a/fonts/roboto-range.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin, </a/fonts/mulish-range.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin, </a/fonts/big-700.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin"
         }
       ]
     },
@@ -24,7 +24,7 @@
       "headers": [
         {
           "key": "Link",
-          "value": "</a/assets/hero-a.avif>; rel=preload; as=image; fetchpriority=high, </a/assets/calendar-a.avif>; rel=preload; as=image, </a/assets/bonus-appliances.avif>; rel=preload; as=image, </a/fonts/roboto-600.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin, </a/fonts/mulish-600.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin, </a/fonts/big-700.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin, </a/fonts/roboto-400.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin, </a/fonts/roboto-700.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin"
+          "value": "</a/assets/hero-a.avif>; rel=preload; as=image; fetchpriority=high, </a/assets/calendar-a.avif>; rel=preload; as=image, </a/assets/bonus-appliances.avif>; rel=preload; as=image, </a/fonts/roboto-range.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin, </a/fonts/mulish-range.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin, </a/fonts/big-700.woff2>; rel=preload; as=font; type=\"font/woff2\"; crossorigin"
         }
       ]
     },
