@@ -17,8 +17,15 @@ Har bir variant o‘z assetlari bilan alohida ishlaydi.
 
 Har bir variantning `js/config.js` faylida shu loyihaning Apps Script endpointi, Telegram kanali va zarur bo‘lsa Pixel ID hamda taymer muddati belgilanadi. Apps Script endpointi ulangan; Telegram, Pixel va taymer muddati hali berilmagan. Sozlangach valid ism/telefon thank-you sahifasiga darhol o‘tadi, yuborish fonda ishlaydi; xatoda qayta yuborish mumkin.
 
-## Tekshiruv va qolgan ishlar
+## PageSpeed va tekshiruv
 
-15 responsive holat, 48 matn/raqam va 75 lokal mock forma tekshiruvi o‘tgan. Haqiqiy lead yuborish hali sinalmagan.
+| Manzil | Performance | Speed Index | LCP | CLS |
+|---|---:|---:|---:|---:|
+| [/a/](https://pagespeed.web.dev/analysis/https-xonadon-10-oktabr-vercel-app-a/j6qlwkqxin?form_factor=mobile) | 100 | 0.772 s | 1.201 s | 0.00009 |
+| [/b/](https://pagespeed.web.dev/analysis/https-xonadon-10-oktabr-vercel-app-b/xyqay3uynq?form_factor=mobile) | 100 | 0.783 s | 1.051 s | 0.01894 |
+| [/c/](https://pagespeed.web.dev/analysis/https-xonadon-10-oktabr-vercel-app-c/wuf3rhk9k6?form_factor=mobile) | 100 | 0.776 s | 1.051 s | 0.01657 |
+| [/](https://pagespeed.web.dev/analysis/https-xonadon-10-oktabr-vercel-app/x9axrueit1?form_factor=mobile) | 100 | 0.762 s | 1.201 s | 0.00000 |
 
-Barcha rasmlar AVIF: asosiy fonlar 30 KB dan, qolganlari 10 KB dan kam. CloudConvert limitidan keyin foydalanuvchi ruxsati bilan lokal AVIF konvertatsiya ishlatildi. Dastlabki rasmlar o‘lchamlari saqlangan; batafsil joylashuv rasmi 390×260 px. Vercel HTTP Link resurs ko‘rsatmalari asosiy fonni ertaroq yuklaydi. Helvetica Neue Bold o‘rnida fallback bor. Official PageSpeed o‘lchanmagan: Performance 90+, Speed Index ≤0.8 s, LCP 1–2 s va CLS talablari tasdiqlanmagan.
+Barcha natijalar rasmiy PSI mobil sinovidan; joriy o‘lchovlar, keyingi natijalar kafolati emas. Barcha rasmlar AVIF: fonlar≤30KB, boshqalar≤10KB.15 responsive holat va75mock forma sinovi o‘tdi. [Bandma-band tekshiruv](TEKSHIRUV.md).
+
+Apps Script ulangan, haqiqiy lead yuborish hali tekshirilmagan. Telegram, Pixel va taymer muddati kutilmoqda. Helvetica Neue Bold asl fayli yo‘qligi sabab tegishli joylar fallback bilan.
