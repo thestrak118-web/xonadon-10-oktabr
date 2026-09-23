@@ -21,4 +21,4 @@ Har bir variantning `js/config.js` faylida shu loyihaning Apps Script endpointi,
 
 15 responsive holat, 48 matn/raqam va 75 lokal mock forma tekshiruvi o‘tgan. Haqiqiy lead yuborish hali sinalmagan.
 
-Barcha rasmlar AVIF: asosiy fonlar 30 KB dan, qolganlari 10 KB dan kam. CloudConvert limitidan keyin foydalanuvchi ruxsati bilan lokal AVIF konvertatsiya ishlatildi. Dastlabki rasmlar o‘lchamlari saqlangan; batafsil joylashuv rasmi 390×260 px. Vercel HTTP Link resurs ko‘rsatmalari asosiy fon, CSS va sarlavha shriftini ertaroq yuklaydi. Helvetica Neue Bold o‘rnida fallback bor. Official PageSpeed o‘lchanmagan: Performance 90+, Speed Index ≤0.8 s, LCP 1–2 s va CLS talablari tasdiqlanmagan.
+Barcha rasmlar AVIF: asosiy fonlar 30 KB dan, qolganlari 10 KB dan kam. CloudConvert limitidan keyin foydalanuvchi ruxsati bilan lokal AVIF konvertatsiya ishlatildi. Dastlabki rasmlar o‘lchamlari saqlangan; batafsil joylashuv rasmi 390×260 px. Vercel HTTP Link resurs ko‘rsatmalari asosiy fonni ertaroq yuklaydi. Helvetica Neue Bold o‘rnida fallback bor. Official PageSpeed o‘lchanmagan: Performance 90+, Speed Index ≤0.8 s, LCP 1–2 s va CLS talablari tasdiqlanmagan.
